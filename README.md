@@ -6,8 +6,6 @@ Official respository of our MIA 2023 paper: [Contour-aware network with class-wi
 
 ![](https://github.com/vegetarianfish/C3Net/blob/main/network.png)
 
-We are actively organizing the code and will upload it to this repository soon.
-
 ### Environment
 
 python = 3.6
