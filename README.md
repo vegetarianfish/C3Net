@@ -23,7 +23,7 @@ To be completed.
 ### Train
 
 ```
-python train_segmentation.py -c /nvme1date/ghj/lmynet_github/configs/C3Net.json
+python train.py -c /nvme1date/ghj/lmynet_github/configs/C3Net.json
 ```
 
 ## BVTAMOS Dataset
