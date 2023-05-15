@@ -8,6 +8,24 @@ Official respository of our MIA 2023 paper: [Contour-aware network with class-wi
 
 We are actively organizing the code and will upload it to this repository soon.
 
+### Environment
+
+python = 3.6
+
+pytorch = 1.10.0
+
+GPU = Nvidia RTX 3090
+
+### Dataset Preparation
+
+To be completed.
+
+### Train
+
+```
+python train_segmentation.py -c /nvme1date/ghj/lmynet_github/configs/C3Net.json
+```
+
 ## BVTAMOS Dataset
 
 ![](https://github.com/vegetarianfish/C3Net/blob/main/dataset.png)
