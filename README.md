@@ -1,6 +1,6 @@
 # Contour-aware network with class-wise convolutions for 3D abdominal multi-organ segmentation
 
-Official respository of our MIA 2023 paper: Contour-aware network with class-wise convolutions for 3D abdominal multi-organ segmentation
+Official respository of our MIA 2023 paper: [Contour-aware network with class-wise convolutions for 3D abdominal multi-organ segmentation](https://doi.org/10.1016/j.media.2023.102838).
 
 ## C3Net (Contour-aware Network with Class-wise Convolutions)
 
